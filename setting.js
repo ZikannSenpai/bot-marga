@@ -1,0 +1,20 @@
+global.zik = {
+    version: "0.0.5",
+    bahasa: "JavaScript",
+    type: "CommonJS",
+    txt: "fσllσw tíktσk @zíkαnnsєnpαí",
+    autoread: false,
+    bio: "berusaha menjadi yg terbaik dari yang terbaik",
+    nomorBot: "6282324913875",
+    nomorOwner: "6285775359514",
+    namaBot: "zιĸĸѕenpaι   |   вoт 🍁",
+    namaOwner: "zιĸĸwangyy   |   dev",
+    namaCh: "Zikkwangyy Matta Matta~",
+    idCh: "120363418206643650@newsletter",
+    linkImg: "https://files.catbox.moe/af7eaj.jpg",
+    linkThumb: "https://files.catbox.moe/6hwac8.jpg",
+    linkTt: "https://tiktok.com/@zikannsenpai",
+    linkWa: "https://wa.me/6285775359514",
+    linkYt: "https://youtube.com/@zikannsenpai",
+    linkLt: "https://linktr.ee/zikannsenpai"
+};
